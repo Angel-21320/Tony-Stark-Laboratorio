@@ -1,0 +1,14 @@
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\bin\Debug\net8.0\Tony Stark.exe
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\bin\Debug\net8.0\Tony Stark.deps.json
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\bin\Debug\net8.0\Tony Stark.runtimeconfig.json
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\bin\Debug\net8.0\Tony Stark.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\bin\Debug\net8.0\Tony Stark.pdb
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\obj\Debug\net8.0\Tony Stark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\obj\Debug\net8.0\Tony Stark.AssemblyInfoInputs.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\obj\Debug\net8.0\Tony Stark.AssemblyInfo.cs
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\obj\Debug\net8.0\Tony Stark.csproj.CoreCompileInputs.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\obj\Debug\net8.0\Tony Stark.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\obj\Debug\net8.0\refint\Tony Stark.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\obj\Debug\net8.0\Tony Stark.pdb
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\obj\Debug\net8.0\Tony Stark.genruntimeconfig.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Mision Secreta de Tony Stark\Tony Stark\obj\Debug\net8.0\ref\Tony Stark.dll
